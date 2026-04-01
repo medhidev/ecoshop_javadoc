@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html","k":"18"},{"l":"controller"},{"l":"entity"},{"l":"services"},{"l":"services.payment"},{"l":"utils"},{"l":"view"},{"l":"view.assets"},{"l":"view.components.common"},{"l":"view.components.customers"},{"l":"view.components.orders"},{"l":"view.panels"}];updateSearchResults();
